@@ -1,0 +1,7 @@
+event_type,latency_ms,processed,throughput
+click,11.4,true,9200
+impression,8.2,true,9200
+conversion,15.1,true,9200
+click,12.0,true,9400
+impression,7.8,true,9400
+conversion,14.2,true,9400
